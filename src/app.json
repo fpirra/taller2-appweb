@@ -1,0 +1,7 @@
+{
+  "name": "appweb-Uderfy",
+  "repository": "https://github.com/fpirra/taller2-appweb.git",
+  "logo": "https://github.com/fpirra/taller2-appweb/blob/master/src/assets/img/logo.png",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
