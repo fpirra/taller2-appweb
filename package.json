@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Node.js en Docker",
   "author": "Maria Florencia Prado",
-  "main": "src/app.module.js",
+  "main": "../src/app.module.js",
   "scripts": {
-    "start": "node src/app.module.js"
+    "start": "node ../src/app.module.js"
   },
   "engines": {
     "node": "6.10.1",
